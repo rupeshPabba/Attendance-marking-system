@@ -1,0 +1,3 @@
+->to load an image in my laptop it takes 0.035 secs approximatley.
+-> 9.43 secs to load and get thier encoidngs for 6 images.
+-> it takes 10 mins to load an image and get it sencoding for 240 images.
