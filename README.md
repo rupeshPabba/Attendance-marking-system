@@ -26,8 +26,8 @@ Limitations:
 
 Usage:
 
-1.Run "pip install -r requirements.txt"
-2.run the file(facial_detection1.py) which is present in anti_spoofing directory{which starts the camera and captures faces and marks attendance for students,if nay person trying to spoof the machine he will be reported and not.}
+1.Run "pip install -r requirements.txt".
+2.run the file(facial_detection1.py) which is present in anti_spoofing directory{which starts the camera and captures faces and marks attendance for students,if nay person trying to spoof the machine he will be reported and not.}.
 ![image](https://github.com/rupeshPabba/Attendance-marking-system/assets/96829415/c9a63ba6-78f4-43fc-b5c2-3e3b560041cc)
 ![image](https://github.com/rupeshPabba/Attendance-marking-system/assets/96829415/a6f10607-51d4-418d-af5b-3bfa2f8461ac)
 ![image](https://github.com/rupeshPabba/Attendance-marking-system/assets/96829415/97a5ca87-438b-44d6-86ff-33aaaf57a900)
@@ -37,7 +37,9 @@ Usage:
 
 Results:
 Database showing proof for attendance:
+
 ![image](https://github.com/rupeshPabba/Attendance-marking-system/assets/96829415/e479d14e-8585-4cf2-9c30-32664f201a90)
 Detection:
+
 ![image](https://github.com/rupeshPabba/Attendance-marking-system/assets/96829415/d3211915-342f-433e-8d61-dd2d324f4144)
 
