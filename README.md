@@ -34,7 +34,7 @@ Usage:
 ![image](https://github.com/rupeshPabba/Attendance-marking-system/assets/96829415/97a5ca87-438b-44d6-86ff-33aaaf57a900)
 
 3. if you wanat to add data(i.e faces) in jpeg format you can use add_data.py{make sure you have mysql and its credentials for your database}
-
+Note: If you want to add data you should add pictures in known_people for storing into database. 
 
 Results:
 
